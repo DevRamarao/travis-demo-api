@@ -33,7 +33,6 @@
 				<configuration>
 				<cloudHubDeployment>
           <server> ${server}</server>
-		<muleVersion>${runtime}</muleVersion>
 		<applicationName>${application.name}</applicationName>
 		<objectStoreV2>true</objectStoreV2>
 		<environment>${environment}</environment>
